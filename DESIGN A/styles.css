@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: hsl(185, 75%, 39%);
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background-image: 
+            url(/images/bg-pattern-top.svg),
+            url(/images/bg-pattern-bottom.svg);
+    background-repeat: no-repeat, no-repeat;
+    background-position: right 45vw bottom 50vh, left 37vw top 40vh;
+   
+}
