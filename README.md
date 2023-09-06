@@ -7,14 +7,14 @@
 - [Tools Used](#tools-used)
 - [Challenges and Solution](#challenges-and-solutions)
 - [Final Thoughts](#final-thoughts)
-- [Acknowledgement](#acknowledgment)
+- [Acknowledgement](#acknowledgement)
 - [Contact](#contact)
 ## Overview
 This is a soluton for the Frontend Mentor Profile Card Component challenge.
 The challenge was to create a profile card component and make it look as close as possible 
 to the provided design.
 
-##The Challenge
+## The Challenge
 The challenge is to create a profile card component using HTML and CSS.
 The provided design include both desktop and mobile versions.
 
@@ -42,7 +42,7 @@ property.
 ## Final Thoughts 
 This project was a great opportunity to practive HTML5 and CSS3 skills.
 
-##Acknowledgement
+## Acknowledgement
 - Frontend Mentor for the coding challenge and design
   
 ## Contact
