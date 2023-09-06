@@ -1,7 +1,7 @@
-#Frontend Mentor - Profile Card Component
+# Frontend Mentor - Profile Card Component
 ![Design Preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
 
-##Table of Contents
+## Table of Contents
 - [Overview](#overview)
 - [The Challenge](#the-challenge)
 - [Tools Used](#tools-used)
@@ -33,18 +33,18 @@ The provided design include both desktop and mobile versions.
 1. Clone this repository to your local machine.
 2. Open the 'index.html' file in your browser to see the profile card component.
 
-## Challnges and Solutions 
+## Challenges and Solutions 
 - Background Image Placement: Placing the background images to make the background pattern.
 Used background-image property to place two images separated their URLs using a comma
 set background-repeat property to no-repeat and set the position of the images using background-position
 property.
 
-##Final Thoughts 
+## Final Thoughts 
 This project was a great opportunity to practive HTML5 and CSS3 skills.
 
 ##Acknowledgement
 - Frontend Mentor for the coding challenge and design
   
-##Contact
+## Contact
 For review, insights and feedback, feel free to reach out to me at [Email](nellywambui060@gmail.com)
 or [GitHub Profile](https://github.com/nellanjimms)
